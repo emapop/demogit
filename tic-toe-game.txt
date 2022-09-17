@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 punem intre linii x si o
 _______
 | | | |
@@ -9,4 +9,10 @@ _______
 456
 123
 Așa să fie ordinea?
->>>>>>> 3e98804057a48f0c18d2ba0a6d61d8157aeedc98
+
+aaaaaaaaaaaaaaa
+oke
+_______
+|o| | |
+| |x| |
+| | | |
