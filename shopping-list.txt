@@ -11,8 +11,5 @@ saratele cu branza
 
 
 no bun, cum jucăm x și 0? =)))
-<<<<<<< HEAD
 hai in tic-toe-game.txt
-=======
 aici e un alt mesaj generic
->>>>>>> 223d6a7e8c2be7fb03a8d16df499260ec71bdcb7
