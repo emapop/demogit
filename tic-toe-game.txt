@@ -1,0 +1,5 @@
+punem intre linii x si o
+_______
+| | | |
+| |x| |
+| | | |
