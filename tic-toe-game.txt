@@ -1,18 +1,11 @@
-
 punem intre linii x si o
+pune o intre liniute
 _______
 | | | |
 | |x| |
 | | | |
-=======
-789
-456
-123
-Așa să fie ordinea?
 
-aaaaaaaaaaaaaaa
-oke
 _______
-|o| | |
+|o|x| |
 | |x| |
 | | | |
